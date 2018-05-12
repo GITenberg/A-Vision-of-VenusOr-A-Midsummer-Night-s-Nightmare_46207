@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43658'
     url: http://www.gutenberg.org/2009/agents/43658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46207#A-Vision-of-VenusOr-A-Midsummer-Night-s-Nightmare
 gutenberg_issued: '2014-07-07'
 gutenberg_type: Text
 identifiers:
